@@ -1,0 +1,116 @@
+<div class="Quote-Form">
+<div class="row">
+
+<div class="col-lg-12"><h2 class="form-page-title">LOCATION DETAILS</h2></div>
+<div class="col-lg-12"><p class="form-page-para">What kind of trip are you thinking of?</p></div>
+<div class="col-lg-12"><p class="form-page-para">On land? Out at sea? R & R or constant nightlife? Tell us a little about where you'd like to go and what kind of experience you're interested in!</p></div>
+
+
+<div class="col-lg-12"><h3 class="fields-heading">Where would you like to explore?</h3></div>
+<div class="col-lg-3">[checkbox checkbox-174 class:mexico-check "Mexico"]</div>
+<div class="col-lg-3">[checkbox checkbox-451 class:caribbean- class:check "Caribbean"]</div>
+<div class="col-lg-3">[checkbox checkbox-502 class:hawaii-check "Hawaii"]</div>
+<div class="col-lg-3">[checkbox checkbox-313 class:alaska-check "Alaska"]</div>
+<div class="col-lg-3">[checkbox checkbox-805 class:europe "Europe"]</div>
+<div class="col-lg-3">[checkbox checkbox-566 class:cruise-check "Cruise"]</div>
+<div class="col-lg-3">[checkbox checkbox-379 class:river-cruise-check "River Cruise"]</div>
+<div class="col-lg-12">[text text-647 class:explore-other placeholder "Other"]</div>
+
+<div class="col-lg-12"><h3 class="fields-heading">What kind of vibe are you looking for?</h3></div>
+<div class="col-lg-3">[checkbox checkbox-604 class:romantic-check "Romantic"]</div>
+<div class="col-lg-3">[checkbox checkbox-961 class:beaten-path-check "Off the Beaten Path"]</div>
+<div class="col-lg-3">[checkbox checkbox-622 class:local-culture-check "Local Culture"]</div>
+<div class="col-lg-3">[checkbox checkbox-34 class:FoodWine-check "Food/Wine"]</div>
+<div class="col-lg-3">[checkbox checkbox-837 class:Party-check "Party"]</div>
+<div class="col-lg-3">[checkbox checkbox-557 class:rest-check "Rest and Relaxation"]</div>
+<div class="col-lg-3">[checkbox checkbox-157 class:friendly-check "Kid/Family Friendly"]</div>
+<div class="col-lg-12">[text text-432 class:vibe-other placeholder "Other"]</div>
+
+<div class="col-lg-12"><h3 class="fields-heading">What activities are you interested in?</h3></div>
+<div class="col-lg-3">[checkbox checkbox-816 class:water-Activities-check "Beach & Water Activities"]</div>
+<div class="col-lg-3">[checkbox checkbox-18 class:scuba-check "Scuba"]</div>
+<div class="col-lg-3">[checkbox checkbox-448 class:Golf-check "Golf"]</div>
+<div class="col-lg-3">[checkbox checkbox-126 class:Theater-check "Theater/Arts"]</div>
+<div class="col-lg-3">[checkbox checkbox-634 class:gambling-check "Gambling"]</div>
+<div class="col-lg-3">[checkbox checkbox-480 class:adventure-activities-check "Adventure Activities"]</div>
+<div class="col-lg-3">[checkbox checkbox-912 class:nightlife-check "Nightlife"]</div>
+<div class="col-lg-3">[checkbox checkbox-194 class:dining-check "Dining"]</div>
+<div class="col-lg-12">[text text-658 class:activities-other placeholder "Other"]</div>
+
+<div class="col-lg-12"><h3 class="fields-heading">Room, View, or Cabin Preference?</h3></div>
+<div class="col-lg-3">[checkbox checkbox-268 class:oceanview-check "Oceanview"]</div>
+<div class="col-lg-3">[checkbox checkbox-939 class:oceanfront-check "Oceanfront"]</div>
+<div class="col-lg-3">[checkbox checkbox-511 class:Garden-check "Garden"]</div>
+<div class="col-lg-3">[checkbox checkbox-374 class:inside-cabin-check "Inside Cabin (cruise)"]</div>
+<div class="col-lg-3">[checkbox checkbox-944 class:outside-cabin-check "Outside Cabin (cruise)"]</div>
+<div class="col-lg-3">[checkbox checkbox-129 class:Balcony-check "Balcony (cruise)"]</div>
+<div class="col-lg-3">[checkbox checkbox-372 class:Suite-check "Suite (cruise)"]</div>
+<div class="col-lg-12">[text text-228 class:view-other placeholder "Other"]</div>
+
+</div>
+</div>
+
+
+
+step3/////////
+
+<div class="Quote-Form">
+<div class="row">
+
+
+<div class="col-lg-12"><h2 class="form-page-title">BOOKING/PARTY DETAILS</h2></div>
+<div class="col-lg-12"><p class="form-page-para">Travel Budget Details</p></div>
+
+<div class="col-lg-12"><h3 class="fields-heading">What would you like included in your booking?</h3></div>
+<div class="col-lg-3">[checkbox checkbox-301 class:air-check "Air"]</div>
+<div class="col-lg-3">[checkbox checkbox-494 class:airport-transfers-check "Airport Transfers"]</div>
+<div class="col-lg-3">[checkbox checkbox-628 class:car-rental-check "Car Rental"]</div>
+<div class="col-lg-3">[checkbox checkbox-222 class:hotel-resort-check "Hotel/Resort/Cruise"]</div>
+<div class="col-lg-3">[checkbox checkbox-188 class:activities-check "Activities"]</div>
+<div class="col-lg-3">[checkbox checkbox-517 class:meals-check "Meals Included"]</div>
+<div class="col-lg-3">[checkbox checkbox-447 class:alcohol-check "Alcohol Included"]</div>
+<div class="col-lg-3">[checkbox checkbox-48 class:Tips-check "Tips Included"]</div>
+<div class="col-lg-12">[text text-322 class:included-booking-other placeholder "Other"]</div>
+
+<div class="col-lg-12"><h3 class="fields-heading">What is your trip budget? (per person)</h3></div>
+<div class="col-lg-12">[select menu-583 class:trip-budget include_blank "$0 - $500" "$501 - $1000" "$1001 - $1500" "$1501 - $2500" "$2500 - $5000" "$5000+"]</div>
+
+<div class="col-lg-12"><h3 class="fields-heading">Trip Duration (days)</h3></div>
+<div class="col-lg-12">[select menu-552 class:trip-duration include_blank "2 - 3" "4 - 6" "7 - 10" "11+"]</div>
+
+<div class="col-lg-12"><h3 class="fields-heading">Resort Preference</h3></div>
+<div class="col-lg-4">[checkbox checkbox-605 class:standard-check "Standard"]</div>
+<div class="col-lg-4">[checkbox checkbox-243 class:deluxe-check "Deluxe"]</div>
+<div class="col-lg-4">[checkbox checkbox-75 class:luxury-check "Luxury"]</div>
+
+<div class="col-lg-12"><h3 class="fields-heading">If applicable, what size car rental will you need?</h3></div>
+<div class="col-lg-3">[checkbox checkbox-89 class:car-economy-check "Compact/Economy"]</div>
+<div class="col-lg-3">[checkbox checkbox-656 class:car-standard-check "Standard"]</div>
+<div class="col-lg-3">[checkbox checkbox-142 class:car-full-size-check "Full Size"]</div>
+<div class="col-lg-3">[checkbox checkbox-138 class:SUV-Van-Pickup-check "SUV/Van/Pickup"]</div>
+<div class="col-lg-3">[checkbox checkbox-545 class:luxury-check "Luxury"]</div>
+<div class="col-lg-12">[text text-88 class:size-car-other placeholder "Other"]</div>
+
+<div class="col-lg-12"><h3 class="fields-heading">Our Party Includes:</h3></div>
+<div class="col-lg-4">[checkbox checkbox-434 class:infantToddler-check "Infant/Toddler"]</div>
+<div class="col-lg-4">[checkbox checkbox-476 class:Children-check "Children (under 13)"]</div>
+<div class="col-lg-4">[checkbox checkbox-935 class:Teens-check "Teens (13-19)"]</div>
+<div class="col-lg-6">[checkbox checkbox-104 class:Adults-check "Adults (20-59)"]</div>
+<div class="col-lg-6">[checkbox checkbox-503 class:Seniors-check "Seniors (60+)"]</div>
+<div class="col-lg-8">[checkbox checkbox-493 class:physical-accomodations-check "People who require physical accomodations"]</div>
+<div class="col-lg-4">[checkbox checkbox-554 class:veterans-military-check "Veterans/Military"]</div>
+<div class="col-lg-4">[checkbox checkbox-348 class:fire-police-check "Fire/Police"]</div>
+
+<div class="col-lg-12"><h3 class="fields-heading">Traveling for a special occasion?</h3></div>
+<div class="col-lg-3">[checkbox checkbox-792 class:birthday-check "Birthday"]</div>
+<div class="col-lg-3">[checkbox checkbox-723 class:anniversary-check "Anniversary"]</div>
+<div class="col-lg-3">[checkbox checkbox-715 class:honeymoon-check "Honeymoon"]</div>
+<div class="col-lg-3">[checkbox checkbox-931 class:wedding-check "Destination Wedding"]</div>
+<div class="col-lg-8">[checkbox checkbox-722 class:bachelor-check "Destination Bachelor/Bachelorette Party"]</div>
+<div class="col-lg-4">[checkbox checkbox-571 class:family-reunion-check "Family Reunion"]</div>
+<div class="col-lg-6">[checkbox checkbox-968 class:reward-travel-check "Company Incentive/Reward Travel"]</div>
+<div class="col-lg-12">[text text-164 class:special-occasion-other placeholder "Other"]</div>
+
+
+</div>
+</div>
